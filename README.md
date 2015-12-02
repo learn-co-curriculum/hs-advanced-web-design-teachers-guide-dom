@@ -56,3 +56,5 @@ Yesterday we did a tiny little review of jQuery but you guys didn’t get to rea
 		+ eq(), each(), has(), closest(), find()
 + Remember there are a TON of jQuery methods and you don’t need to memorize them all. Here is a good resource [http://oscarotero.com/jquery/](http://oscarotero.com/jquery/).
 + Let’s get back into the swing of things with the ATM lab and then this afternoon you guys will be doing a group project - creating a Whac a Mole game!
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-dom' data-visibility='hidden'>View this lesson on Learn.co</a>
